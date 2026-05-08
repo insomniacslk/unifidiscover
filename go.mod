@@ -1,6 +1,6 @@
 module github.com/insomniacslk/unifidiscover
 
-go 1.25.0
+go 1.25
 
 require (
 	github.com/insomniacslk/xjson v0.0.0-20240821125711-1236daaf6808
