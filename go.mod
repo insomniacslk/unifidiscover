@@ -1,11 +1,11 @@
 module github.com/insomniacslk/unifidiscover
 
-go 1.21.5
+go 1.25.0
 
 require (
-	github.com/insomniacslk/xjson v0.0.0-20231023101448-2249e546a131
-	github.com/sirupsen/logrus v1.9.3
-	github.com/spf13/pflag v1.0.5
+	github.com/insomniacslk/xjson v0.0.0-20240821125711-1236daaf6808
+	github.com/sirupsen/logrus v1.9.4
+	github.com/spf13/pflag v1.0.10
 )
 
-require golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
+require golang.org/x/sys v0.44.0 // indirect
